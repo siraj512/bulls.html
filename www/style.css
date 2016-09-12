@@ -1,0 +1,27 @@
+body{
+background-color: yellow
+}
+h1#top{
+	text-align:center;	
+}
+div.history 
+h3{
+	background-color:orange;
+	color:red;
+}
+ p{
+	font-style:italic;
+}
+div#intro p{
+	font-family:verdana;
+	text-decoration:underline
+}
+tr td{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:10px;
+	padding-left:10px;
+	text-align:center;
+}
+
+ul {list-style-type:square;}
